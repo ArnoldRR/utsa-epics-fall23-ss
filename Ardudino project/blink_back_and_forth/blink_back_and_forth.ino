@@ -13,6 +13,7 @@ void setup() {
 
 void loop() {
  //put your main code here, to run repeatedly:
+ // comment
 digitalWrite (led_pin1,HIGH);
 digitalWrite (led_pin2,HIGH);
  delay (blink_duration1);
